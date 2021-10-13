@@ -1,2 +1,2 @@
-# qb-crafting
+# qbr-crafting
 Crafting for RedM QBCore
